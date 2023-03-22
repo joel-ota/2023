@@ -51,5 +51,5 @@ $students [] = [
     "email" => "ivan3@gmail.com",
     "mobitel" => "5345346554" 
 ];
-$studentsjson = json_encode ($students);
+$studentsjson = json_encode ($students, JSON_PRETTY_PRINT);
 file_put_contents ('polaznici.json',$studentsjson);

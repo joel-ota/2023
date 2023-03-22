@@ -1,1 +1,30 @@
-[{"ime":"ivan","prezime":"Horvat","godine":"38","email":"ivan@gmail.com","mobitel":"0985556554"},{"ime":"marko","prezime":"ggaga","godine":"38","email":"ivan2@gmail.com","mobitel":"0985345346554"},{"ime":"jelena","prezime":"koncar","godine":"55","email":"ivan3@gmail.com","mobitel":"5345346554"}]
+[
+    {
+        "ime": "ivan",
+        "prezime": "Horvat",
+        "godine": "38",
+        "email": "ivan@gmail.com",
+        "mobitel": "0985556554"
+    },
+    {
+        "ime": "marko",
+        "prezime": "ggaga",
+        "godine": "38",
+        "email": "ivan2@gmail.com",
+        "mobitel": "0985345346554"
+    },
+    {
+        "ime": "jelena",
+        "prezime": "koncar",
+        "godine": "55",
+        "email": "ivan3@gmail.com",
+        "mobitel": "5345346554"
+    },
+    {
+        "ime": "jelena",
+        "prezime": "koncar",
+        "godine": "55",
+        "email": "ivan3@gmail.com",
+        "mobitel": "5345346554"
+    }
+]
