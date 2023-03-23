@@ -112,5 +112,23 @@
         "slova": 6,
         "samoglasnici": 6,
         "suglasnici": 0
+    },
+    {
+        "rijec": "asdasd",
+        "slova": 6,
+        "samoglasnici": 4,
+        "suglasnici": 2
+    },
+    {
+        "rijec": "fsdfs",
+        "slova": 5,
+        "samoglasnici": 5,
+        "suglasnici": 0
+    },
+    {
+        "rijec": "rtzr",
+        "slova": 4,
+        "samoglasnici": 4,
+        "suglasnici": 0
     }
 ]
