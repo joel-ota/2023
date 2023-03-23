@@ -7,7 +7,10 @@
     <title>Parcijalni 02</title>
     <style>
     </style>
-</head>
+</head >
+
+<h1 align=center>Upišite željenu riječ!</h1>
+
 <body>
 
 
